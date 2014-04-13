@@ -1,4 +1,4 @@
 pmqs
 ====
 
-(Simple) Python Message Queue Service
+Python Message Queue Service (PMQS) is a simple message queue service written in Python. 
